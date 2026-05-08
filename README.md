@@ -2,13 +2,19 @@
 
 A complete Stripe payment integration built with Next.js, MySQL, and Prisma. This guide walks you through everything from zero to a fully working payment system — both locally and in production.
 
+> **Adding Stripe to an existing project?**
+> Use the npm package instead → [`@sumaiazaman/stripe-payment`](https://github.com/sumaiazaman/stripe-payment-ui)
+> ```bash
+> npm install @sumaiazaman/stripe-payment
+> ```
+
 ---
 
 ## Quick Start (5 minutes)
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/sumaiazaman/stripe-payment.git
 cd stripe-payment
 
 # 2. Install dependencies
