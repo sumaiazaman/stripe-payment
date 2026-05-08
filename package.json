@@ -12,6 +12,8 @@
     "@prisma/client": "^5.22.0",
     "@stripe/react-stripe-js": "^6.3.0",
     "@stripe/stripe-js": "^9.4.0",
+    "@sumaiaaktar/stripe-payment": "^1.0.0",
+    "@sumaiaaktar/stripe-payment": "file:../stripe-payment-ui/sumaiazaman-stripe-payment-1.0.0.tgz",
     "mysql2": "^3.22.3",
     "next": "16.2.6",
     "prisma": "^5.22.0",
